@@ -1,0 +1,3 @@
+include ':uixml'
+include ':app'
+rootProject.name = "WeekEndApp"
